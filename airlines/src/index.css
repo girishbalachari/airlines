@@ -1,0 +1,113 @@
+* {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+.main {
+  background-color: #f9fafb;
+}
+
+.clogo {
+  background-color: rgba(255, 255, 255, 0.712);
+  display: flex;
+}
+
+.title {
+  font-size: 44px;
+  font-weight: 900;
+  color: black;
+  display: flex;
+  margin-left: 94px;
+  margin-bottom: 73px;
+}
+
+.choice {
+  font-size: 16px;
+  font-weight: bold;
+  color: #192024;
+  display: flex;
+  margin-left: 94px;
+  margin-bottom: 23px;
+}
+
+.mark {
+  display: flex;
+  margin-left: 94px;
+  margin-bottom: 48px;
+}
+
+.boxes {
+  display: flex;
+  align-content: start;
+  flex-flow: row wrap;
+}
+
+.box {
+  font-size: 16px;
+  font-weight: bold;
+  color: #192024;
+  height: 240px;
+  width: 370px;
+  background-color: white;
+  margin: 8px;
+  border-radius: 8px;
+  box-shadow: 0 -1px 4px 0 rgba(25, 32, 36, 0.04);
+  border: solid 1px #363f45;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box:hover {
+  font-size: 14px;
+}
+
+.box1 {
+  background: rgb(240, 140, 210);
+  color: rgb(255, 255, 255);
+}
+
+.planelogo {
+  width: 32px;
+  height: 32px;
+  margin-right: 18px;
+}
+
+.result {
+  font-weight: normal;
+}
+
+.hlink {
+  color: #5a6872;
+  background: rgb(166, 247, 5);
+}
+
+.clogo1 {
+  margin: 10px 10px;
+}
+
+.markinput {
+  margin-right: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+.marklabel {
+  margin-right: 24px;
+  font-size: 14px;
+  font-weight: normal;
+  color: #192024;
+  align-self: center;
+}
+
+.footers {
+  height: 30px;
+  background: black;
+  color: white;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: normal;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
