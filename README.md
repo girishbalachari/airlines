@@ -1,4 +1,9 @@
-# airlines
+# airlines (KAYAK)
+The Exercise
+Your goal is to create a simple web application that displays information about various
+airlines. This exercise also serves as a sample of the type of tasks you can expect while
+working at KAYAK
+
 Fetching all alliance airlines details from API
 
 
